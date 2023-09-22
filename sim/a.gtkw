@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Mar 13 17:54:58 2023
+[*]
+[dumpfile] "C:\Users\james\OneDrive\Documents\ENGR_190\Lab 9\sim\a.vcd"
+[dumpfile_mtime] "Mon Mar 13 17:36:36 2023"
+[dumpfile_size] 7871
+[savefile] "C:\Users\james\OneDrive\Documents\ENGR_190\Lab 9\sim\a.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-10.819036 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+clock2_tb.clk_r
+clock2_tb.nLoadNow_r
+@22
+clock2_tb.hrsMsb_w[6:0]
+clock2_tb.hrsLsb_w[6:0]
+clock2_tb.minsMsb_w[6:0]
+clock2_tb.minsLsb_w[6:0]
+clock2_tb.secsMsb_w[6:0]
+clock2_tb.secsLsb_w[6:0]
+[pattern_trace] 1
+[pattern_trace] 0

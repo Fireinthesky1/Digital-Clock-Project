@@ -1,0 +1,11 @@
+..\src\clock1.v
+..\src\bin2bcd.v
+#..\src\clock1_top.v
+..\src\cntrStage.v
+..\src\hex7seg.v
+..\sim\clock1_tb.v
+..\src\clock2.v
+..\src\bcd2bin.v
+..\src\zeroHourManager.v
+..\src\zeroBlanker.v
+#..\sim\clock2_tb.v
